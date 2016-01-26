@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<photos>
+    <photo>
+        <href>img/5.jpg</href>
+        <img>img/5.jpg</img>
+        <title>Speed Racer</title>
+        <back>
+            Here he comes Here comes Speed Racer. He's a demon on wheels. Wouldn't you like to get away? Sometimes you want to go where everybody knows <span>the</span> your name. And they're always glad you came! 
+        </back>
+    </photo>
+    <photo>
+        <href>img/5.jpg</href>
+        <img>img/5.jpg</img>
+        <title>Speed Racer</title>
+        <back>
+            Here he comes Here comes Speed Racer. He's a demon on wheels. Wouldn't you like to get away? Sometimes you want to go where everybody knows <span>the</span> your name. And they're always glad you came! 
+        </back>
+    </photo>
+</photos>
